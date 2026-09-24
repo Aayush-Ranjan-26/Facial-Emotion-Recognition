@@ -1,0 +1,5 @@
+.venv/
+data/
+__pycache__/
+*.zip
+emotion_model.pkl
