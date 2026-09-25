@@ -1,9 +1,25 @@
-# 🎭 Real-Time Facial Emotion Recognition
+<div align="center">
 
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  <h1>🎭 Real-Time Facial Emotion Recognition</h1>
+
+  <p>
+    <strong>A high-performance, CPU-optimized facial expression analysis engine built with classical Machine Learning</strong>
+  </p>
+
+  <p>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" alt="License: MIT"></a>
+  </p>
+
+  <p>
+    <b>⚡ High-FPS Live Inference</b> &bull;
+    <b>🎯 Haar + HOG + SVM Pipeline</b> &bull;
+    <b>💻 Zero GPU Required</b>
+  </p>
+
+</div>
 
 A lightweight, real-time facial expression and emotion recognition system built with **classical Machine Learning**. By leveraging **Haar Cascade classifiers**, **Histogram of Oriented Gradients (HOG)**, and a **Support Vector Machine (SVM)** with an RBF kernel, this project achieves responsive emotion detection on standard CPU hardware without requiring heavy deep learning frameworks or dedicated GPUs.
 
